@@ -38,8 +38,15 @@ University project focused on applying data mining techniques to design marketin
 
 ### Marketing Strategy 
 - Co-designed the marketing layout and campaign strategy for **Tarjeta Oro**.
-- Collaborated on message development, customer targeting, and visual alignment.
-
+ - Collaborated on message development, customer targeting, and visual alignment.
 ### Team Leadership
 - Led the team’s workflow, assigned responsibilities, consolidated final deliverables, and ensured a consistent analytical direction across all phases of the project.
+ ## Python Part 
+ Alongside the original university project, I developed an additional Python notebook to replicate and automate part of the data cleaning and exploratory analysis.
+This exercise was created independently after completing the project, with the goal of strengthening my skills in:
+- dataset preparation 
+- variable filtering and transformation
+- creation of derived attributes (rangoedad)
+- exploratory visualizations 
+The notebook follows the same marketing analysis logic used in Excel and Power BI, but fully implemented in Python to improve reproducibility and deepen data manipulation skills.
 
